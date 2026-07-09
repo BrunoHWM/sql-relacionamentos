@@ -1,6 +1,6 @@
 # SQL Relacionamentos
 
-## Exercícios SQL - TDS26-1N
+## CONSULTA SQL 
 
 Este repositório contém os exercícios de **SQL** desenvolvidos durante as aulas da turma **TDS26-1N**.
 
