@@ -159,7 +159,7 @@ WHERE c.id = co.cliente_id
 AND p.id = co.produto_id
 AND p.nome LIKE 'Camiseta%';
 
--- 10. Mostre todos os clientes e produtos comprados em fevereiro de 2025.
+-- 10. Mostre todos os clientes e produtos comprados em fevereiro.
 SELECT c.nome AS cliente, p.nome AS produto, co.data_compra, p.preco
 FROM clientes c, compras co, produtos p
 WHERE c.id = co.cliente_id
